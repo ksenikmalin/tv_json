@@ -1,0 +1,43 @@
+﻿p {
+ text-align: center; 
+}
+
+
+a {
+ 	color:#000000;
+	text-decoration: none;
+
+}
+
+td {
+ color: rgb(0, 0, 0); 
+}
+
+#main_menu ul li{
+	display: none;
+	list-style-type: none;
+
+}
+
+#main{
+	list-style-type: none;
+	text-align: center;
+}
+
+li{
+	margin-top: 5px;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid grey;
+	margin: 5px;
+ }
+ td {
+	padding: 10px 15px;
+ }
+
+ h2{
+	text-align: center;
+ }
+ 
